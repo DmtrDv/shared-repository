@@ -1,0 +1,8 @@
+D:\P30\проекты\иерархия\hierarchy\bin\Debug\hierarchy.exe.config
+D:\P30\проекты\иерархия\hierarchy\bin\Debug\hierarchy.exe
+D:\P30\проекты\иерархия\hierarchy\bin\Debug\hierarchy.pdb
+D:\P30\проекты\иерархия\hierarchy\obj\Debug\hierarchy.csproj.AssemblyReference.cache
+D:\P30\проекты\иерархия\hierarchy\obj\Debug\hierarchy.csproj.SuggestedBindingRedirects.cache
+D:\P30\проекты\иерархия\hierarchy\obj\Debug\hierarchy.csproj.CoreCompileInputs.cache
+D:\P30\проекты\иерархия\hierarchy\obj\Debug\hierarchy.exe
+D:\P30\проекты\иерархия\hierarchy\obj\Debug\hierarchy.pdb
