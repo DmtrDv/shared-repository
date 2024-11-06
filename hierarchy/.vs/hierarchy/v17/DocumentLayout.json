@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\dmitr\\Documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B C#\\\u0442\u0435\u0445\\\u043F\u0440\u043E\u0433 3\u043A\\\u0440\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438\\shared repository\\hierarchy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E9243F18-CD81-4105-B988-122BC17F02B2}|hierarchy.csproj|C:\\Users\\dmitr\\Documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B C#\\\u0442\u0435\u0445\\\u043F\u0440\u043E\u0433 3\u043A\\\u0440\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438\\shared repository\\hierarchy\\discount energi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9243F18-CD81-4105-B988-122BC17F02B2}|hierarchy.csproj|solutionrelative:discount energi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9243F18-CD81-4105-B988-122BC17F02B2}|hierarchy.csproj|C:\\Users\\dmitr\\Documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B C#\\\u0442\u0435\u0445\\\u043F\u0440\u043E\u0433 3\u043A\\\u0440\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438\\shared repository\\hierarchy\\discount juce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9243F18-CD81-4105-B988-122BC17F02B2}|hierarchy.csproj|solutionrelative:discount juce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E9243F18-CD81-4105-B988-122BC17F02B2}|hierarchy.csproj|c:\\users\\dmitr\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B c#\\\u0442\u0435\u0445\\\u043F\u0440\u043E\u0433 3\u043A\\\u0440\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438\\shared repository\\hierarchy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9243F18-CD81-4105-B988-122BC17F02B2}|hierarchy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9243F18-CD81-4105-B988-122BC17F02B2}|hierarchy.csproj|C:\\Users\\dmitr\\Documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B C#\\\u0442\u0435\u0445\\\u043F\u0440\u043E\u0433 3\u043A\\\u0440\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438\\shared repository\\hierarchy\\drinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9243F18-CD81-4105-B988-122BC17F02B2}|hierarchy.csproj|solutionrelative:drinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +42,51 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Discount Juce.cs",
+              "DocumentMoniker": "C:\\Users\\dmitr\\Documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B C#\\\u0442\u0435\u0445\\\u043F\u0440\u043E\u0433 3\u043A\\\u0440\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438\\shared repository\\hierarchy\\Discount Juce.cs",
+              "RelativeDocumentMoniker": "Discount Juce.cs",
+              "ToolTip": "C:\\Users\\dmitr\\Documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B C#\\\u0442\u0435\u0445\\\u043F\u0440\u043E\u0433 3\u043A\\\u0440\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438\\shared repository\\hierarchy\\Discount Juce.cs",
+              "RelativeToolTip": "Discount Juce.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T19:18:20.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Discount Energi.cs",
+              "DocumentMoniker": "C:\\Users\\dmitr\\Documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B C#\\\u0442\u0435\u0445\\\u043F\u0440\u043E\u0433 3\u043A\\\u0440\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438\\shared repository\\hierarchy\\Discount Energi.cs",
+              "RelativeDocumentMoniker": "Discount Energi.cs",
+              "ToolTip": "C:\\Users\\dmitr\\Documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B C#\\\u0442\u0435\u0445\\\u043F\u0440\u043E\u0433 3\u043A\\\u0440\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438\\shared repository\\hierarchy\\Discount Energi.cs",
+              "RelativeToolTip": "Discount Energi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T19:16:50.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "drinks.cs",
+              "DocumentMoniker": "C:\\Users\\dmitr\\Documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B C#\\\u0442\u0435\u0445\\\u043F\u0440\u043E\u0433 3\u043A\\\u0440\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438\\shared repository\\hierarchy\\drinks.cs",
+              "RelativeDocumentMoniker": "drinks.cs",
+              "ToolTip": "C:\\Users\\dmitr\\Documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B C#\\\u0442\u0435\u0445\\\u043F\u0440\u043E\u0433 3\u043A\\\u0440\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438\\shared repository\\hierarchy\\drinks.cs",
+              "RelativeToolTip": "drinks.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T19:16:51.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dmitr\\Documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B C#\\\u0442\u0435\u0445\\\u043F\u0440\u043E\u0433 3\u043A\\\u0440\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438\\shared repository\\hierarchy\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\dmitr\\Documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B C#\\\u0442\u0435\u0445\\\u043F\u0440\u043E\u0433 3\u043A\\\u0440\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438\\shared repository\\hierarchy\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T19:12:07.855Z",
               "EditorCaption": ""
