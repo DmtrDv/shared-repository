@@ -6,3 +6,10 @@ D:\P30\проекты\иерархия\hierarchy\obj\Debug\hierarchy.csproj.Sugg
 D:\P30\проекты\иерархия\hierarchy\obj\Debug\hierarchy.csproj.CoreCompileInputs.cache
 D:\P30\проекты\иерархия\hierarchy\obj\Debug\hierarchy.exe
 D:\P30\проекты\иерархия\hierarchy\obj\Debug\hierarchy.pdb
+C:\Users\dmitr\Documents\проекты C#\тех\прог 3к\репозитории\shared repository\hierarchy\bin\Debug\hierarchy.exe.config
+C:\Users\dmitr\Documents\проекты C#\тех\прог 3к\репозитории\shared repository\hierarchy\bin\Debug\hierarchy.exe
+C:\Users\dmitr\Documents\проекты C#\тех\прог 3к\репозитории\shared repository\hierarchy\bin\Debug\hierarchy.pdb
+C:\Users\dmitr\Documents\проекты C#\тех\прог 3к\репозитории\shared repository\hierarchy\obj\Debug\hierarchy.csproj.AssemblyReference.cache
+C:\Users\dmitr\Documents\проекты C#\тех\прог 3к\репозитории\shared repository\hierarchy\obj\Debug\hierarchy.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\Documents\проекты C#\тех\прог 3к\репозитории\shared repository\hierarchy\obj\Debug\hierarchy.exe
+C:\Users\dmitr\Documents\проекты C#\тех\прог 3к\репозитории\shared repository\hierarchy\obj\Debug\hierarchy.pdb

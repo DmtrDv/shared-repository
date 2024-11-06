@@ -10,14 +10,14 @@ namespace hierarchy
     {
         static void Main(string[] args)
         {
-            drinks Energi = new drinks("Burn",100.0, 7);
-            Console.WriteLine(Energi.GetName());
-            Console.WriteLine(Energi.GetCost());
-            Energi.Discount();
+            DiscountEnergi Energi_Burn = new DiscountEnergi("Burn ",100.0, 7);
+            Console.Write(Energi_Burn.GetName());
+            Console.WriteLine(Energi_Burn.GetCost());
+            Energi_Burn.Discount();
 
-            drinks Juce = new drinks("Rich", 150.0, 12);
-            Console.WriteLine(Juce.GetName());
-            Console.WriteLine(Juce.GetCost());
+            drinks Juce_Rich = new drinks("Rich", 150.0, 12);
+            Console.WriteLine(Juce_Rich.GetName());
+            Console.WriteLine(Juce_Rich.GetCost());
 
 
             Console.ReadKey();

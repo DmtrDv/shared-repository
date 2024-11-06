@@ -9,9 +9,7 @@ namespace hierarchy
     class DiscountEnergi : drinks
     {
         public DiscountEnergi(string Name, double Cost, int Quantity) : base(Name, Cost, Quantity)
-        {
-           
-        
+        {                   
             if (Quantity > 5 && Quantity <= 10)
              discount = "Скидка 10%";
             if (Quantity > 10 && Quantity <= 20)
