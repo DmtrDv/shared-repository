@@ -1,0 +1,7 @@
+D:\документы\проекты C#\тех\прог 3к\репозитории\shared-repository\class repo\Incapsulation\bin\Debug\Incapsulation.exe.config
+D:\документы\проекты C#\тех\прог 3к\репозитории\shared-repository\class repo\Incapsulation\bin\Debug\Incapsulation.exe
+D:\документы\проекты C#\тех\прог 3к\репозитории\shared-repository\class repo\Incapsulation\bin\Debug\Incapsulation.pdb
+D:\документы\проекты C#\тех\прог 3к\репозитории\shared-repository\class repo\Incapsulation\obj\Debug\Incapsulation.csproj.AssemblyReference.cache
+D:\документы\проекты C#\тех\прог 3к\репозитории\shared-repository\class repo\Incapsulation\obj\Debug\Incapsulation.csproj.CoreCompileInputs.cache
+D:\документы\проекты C#\тех\прог 3к\репозитории\shared-repository\class repo\Incapsulation\obj\Debug\Incapsulation.exe
+D:\документы\проекты C#\тех\прог 3к\репозитории\shared-repository\class repo\Incapsulation\obj\Debug\Incapsulation.pdb
